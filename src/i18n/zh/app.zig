@@ -67,7 +67,7 @@ pub const entries: []const Entry = &.{
     .{ "not a command: :{s}", "未知命令: :{s}" },
     .{ ":{s} works only in {s}", ":{s} 仅在 {s} 中有效" },
     .{ "the compose box", "输入框" },
-    .{ "a list", "列表中" },
+    .{ "a list", "列表" },
     .{ "another mode", "其他模式" },
     .{ "theme {s} - :theme <Tab> to change it", "主题 {s} - 按 :theme <Tab> 进行切换" },
     .{ "no theme called {s} - try {s}", "未找到名为 {s} 的主题 - 尝试 {s}" },
